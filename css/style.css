@@ -114,22 +114,23 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
 
 /*-- banner --*/
 .banner{
-	background: url(../images/1.jpeg) no-repeat 0px 0px;
+/*	background: url(../images/RajPatelPic.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    -ms-background-size: cover;
+	-ms-background-size: cover; */
+	background-color: #fff;
     min-height: 770px;
     position: relative;
 }
 .agileinfo-dot {
-    background: url(../images/dott.png)repeat 0px 0px;
+/*    background: url(../images/dott.png)repeat 0px 0px;
     background-size: 2px;
     -webkit-background-size: 2px;
     -moz-background-size: 2px;
     -o-background-size: 2px;
-    -ms-background-size: 2px;
+    -ms-background-size: 2px;*/
     min-height: 770px;
     padding: 1em 0;
 }
@@ -645,9 +646,10 @@ b, strong {
 .skills p.p1 {
     font-size: 14px;
     line-height: 28px;
-    margin: 3em 0 0em;
+    margin: 0.5em 0 0em 0.5em;
     color: #353535;
-    letter-spacing: .5px;
+	letter-spacing: .5px;
+	margin-bottom: 33px;
 }
 .skillgrid1 img {
     position: relative;
@@ -1739,7 +1741,7 @@ iframe {
 		margin: 7em 0 4em;
 	}
 	.banner {
-		background: url(../images/1.jpeg) no-repeat -182px 0px;
+/*		background: url(../images/1.jpeg) no-repeat -182px 0px;*/
 		background-size: cover;
 	}
 }
