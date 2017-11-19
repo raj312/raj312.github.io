@@ -10,7 +10,7 @@ p{
 .skillbar {
 	position:relative;
 	display:block;
-	margin-bottom:33px;
+/*	margin-bottom:33px; */
 	width:100%;
 	background:#eee;
 	height:30px;
@@ -33,7 +33,7 @@ p{
 	position:absolute;
 	top:0;
 	left:0;
-	width:110px;
+/*	width:110px; */
 	font-size:15px;
 	color:#ffffff;
 	background:#6adcfa;
@@ -73,4 +73,9 @@ p{
 	line-height:30px;
 	color:#ffffff;
 	color:rgba(0, 0, 0, 0.4);
+}
+
+
+.p1_skill {
+
 }
